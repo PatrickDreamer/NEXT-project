@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <div className="bg-white rounded-2xl shallow-2xl flex w-2/3 max-w-4xl">
           <div className="w-3/5 p-5 ">
             <div className="text-left font-bold">
-              <span className="text-green-500">Welcome</span>
+              <span className="text-green-500">Company</span>Name
             </div>
             <div>
               <h2 className="py-10">Sign into Account</h2>
@@ -79,7 +79,7 @@ const Home: NextPage = () => {
                   href="#"
                   className="border-2 border-green-500 rounded-full px-12 py-2 inline-block font-semibold hover:bg-green-500 hover:text-white"
                 >
-                  Sign in
+                  Sign up
                 </a>
               </div>
             </div>

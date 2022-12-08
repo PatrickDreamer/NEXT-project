@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <div className="bg-white rounded-2xl shallow-2xl flex w-2/3 max-w-4xl">
           <div className="w-3/5 p-5 ">
             <div className="text-left font-bold">
-              <span className="text-green-500">Welcome</span>
+              <span className="text-green-500">Welcome</span>!
             </div>
             <div>
               <h2 className="py-10">Sign into Account</h2>
